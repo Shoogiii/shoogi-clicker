@@ -1,0 +1,29 @@
+{
+    "language": "tr",
+    "theme": "Koyu",
+    "always_on_top": false,
+    "sound_feedback": false,
+    "hotkey": "f6",
+    "current_profile": "default",
+    "profiles": {
+        "default": {
+            "name_tr": "Roblox Clan",
+            "name_en": "Roblox Clan",
+            "interval_ms": 40,
+            "click_type": "left",
+            "click_mode": "single",
+            "repeat_mode": "infinite",
+            "repeat_count": 0,
+            "random_jitter": true,
+            "jitter_amount": 15,
+            "follow_cursor": true,
+            "fixed_x": 0,
+            "fixed_y": 0
+        }
+    },
+    "statistics": {
+        "total_clicks_all_time": 3243,
+        "total_sessions": 0,
+        "total_time": 0
+    }
+}
