@@ -1,0 +1,91 @@
+============================================================
+          SHOOGI CLICKER v2.0 - KULLANIM KILAVUZU
+============================================================
+
+Shoogi Clicker, modern arayüzlü ve yüksek performanslı bir 
+otomatik tıklama (Auto Clicker) uygulamasıdır.
+
+------------------------------------------------------------
+[ TEMEL ÖZELLİKLER ]
+------------------------------------------------------------
+* Hızlı Tıklama: Milisaniye (ms) bazında hassas ayar.
+* Anti-Detection: Tıklamalar arası rastgele gecikmeler ekler.
+* Kısayol Tuşu: F6 (Varsayılan) ile başlatıp durdurma.
+* Tray Modu: Kapatıldığında saat yanına küçülür, çalışmaya devam eder.
+* Profil Sistemi: Farklı oyunlar için farklı ayarlar kaydedebilir.
+
+------------------------------------------------------------
+[ NASIL ÇALIŞTIRILIR? ]
+------------------------------------------------------------
+1. shoogi_clicker_v2.exe dosyasını çalıştırın.
+2. Ekranda istediğiniz tıklama hızını (ms) girin.
+3. "BAŞLAT" butonuna basın veya klavyeden F6 tuşunu kullanın.
+4. Durdurmak için tekrar F6 tuşuna basmanız yeterlidir.
+
+------------------------------------------------------------
+[ ÖNEMLİ AYARLAR VE İPUÇLARI ]
+------------------------------------------------------------
+- Jitter (Sapma): Bu özellik aktifse tıklamalar tam olarak 
+  aynı hızda yapılmaz, bu da oyunlardaki bot korumasına 
+  takılmanızı engeller.
+- Her Zaman Üstte: Uygulama penceresinin diğer pencerelerin 
+  arkasında kalmasını engeller.
+- İstatistikler: Toplam kaç tıklama yapıldığını ana ekrandan 
+  takip edebilirsiniz.
+
+------------------------------------------------------------
+[ GÜVENLİK NOTU ]
+------------------------------------------------------------
+Acil bir durumda tıklamayı durduramazsanız, farenizi ekranın 
+en sol üst köşesine hızlıca çekin. Bu, programın güvenlik 
+mekanizmasını tetikleyerek tıklamayı anında durduracaktır.
+
+------------------------------------------------------------
+Geliştirici: Shoogi
+Sürüm: 2.0.0
+========================================================================================================================
+          SHOOGI CLICKER v2.0 - KULLANIM KILAVUZU
+============================================================
+
+Shoogi Clicker, modern arayüzlü ve yüksek performanslı bir 
+otomatik tıklama (Auto Clicker) uygulamasıdır.
+
+------------------------------------------------------------
+[ TEMEL ÖZELLİKLER ]
+------------------------------------------------------------
+* Hızlı Tıklama: Milisaniye (ms) bazında hassas ayar.
+* Anti-Detection: Tıklamalar arası rastgele gecikmeler ekler.
+* Kısayol Tuşu: F6 (Varsayılan) ile başlatıp durdurma.
+* Tray Modu: Kapatıldığında saat yanına küçülür, çalışmaya devam eder.
+* Profil Sistemi: Farklı oyunlar için farklı ayarlar kaydedebilir.
+
+------------------------------------------------------------
+[ NASIL ÇALIŞTIRILIR? ]
+------------------------------------------------------------
+1. shoogi_clicker_v2.exe dosyasını çalıştırın.
+2. Ekranda istediğiniz tıklama hızını (ms) girin.
+3. "BAŞLAT" butonuna basın veya klavyeden F6 tuşunu kullanın.
+4. Durdurmak için tekrar F6 tuşuna basmanız yeterlidir.
+
+------------------------------------------------------------
+[ ÖNEMLİ AYARLAR VE İPUÇLARI ]
+------------------------------------------------------------
+- Jitter (Sapma): Bu özellik aktifse tıklamalar tam olarak 
+  aynı hızda yapılmaz, bu da oyunlardaki bot korumasına 
+  takılmanızı engeller.
+- Her Zaman Üstte: Uygulama penceresinin diğer pencerelerin 
+  arkasında kalmasını engeller.
+- İstatistikler: Toplam kaç tıklama yapıldığını ana ekrandan 
+  takip edebilirsiniz.
+
+------------------------------------------------------------
+[ GÜVENLİK NOTU ]
+------------------------------------------------------------
+Acil bir durumda tıklamayı durduramazsanız, farenizi ekranın 
+en sol üst köşesine hızlıca çekin. Bu, programın güvenlik 
+mekanizmasını tetikleyerek tıklamayı anında durduracaktır.
+
+------------------------------------------------------------
+Geliştirici: Shoogi
+Sürüm: 2.0.0
+============================================================
